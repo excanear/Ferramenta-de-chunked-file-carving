@@ -2,6 +2,7 @@
 #include "command_line_parser.h"
 #include "logger.h"
 #include <iostream>
+#include <sstream>
 #include <chrono>
 #include <iomanip>
 #include <filesystem>
